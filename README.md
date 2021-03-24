@@ -1,0 +1,2 @@
+# NextjsApp
+Nextjs Tailwind used
