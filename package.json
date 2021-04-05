@@ -1,0 +1,28 @@
+{
+  "name": "GrapqlApiApolloServer",
+  "version": "1.0.0",
+  "description": "Node graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgunturk/GrapqlApiApolloServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgunturk/GrapqlApiApolloServer/issues"
+  },
+  "homepage": "https://github.com/bgunturk/GrapqlApiApolloServer#readme",
+  "dependencies": {
+    "apollo-server": "^2.22.2",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.5"
+  }
+}
