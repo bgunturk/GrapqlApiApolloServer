@@ -1,2 +1,2 @@
-# GraphQl Server
+# GraphQl user ready Server
 Node graphql
