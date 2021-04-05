@@ -1,2 +1,2 @@
-# NextjsApp
-Nextjs Tailwind used
+# GraphQl Server
+Node graphql
